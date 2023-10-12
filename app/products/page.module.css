@@ -1,0 +1,37 @@
+.products {
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column
+}
+
+
+.productDetails{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 600px;
+    background: gray;
+    border: 2px solid black ;
+    border-radius: 10px;
+    color: black;
+    margin: 10px
+}
+
+.pruductButton{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: blue;
+    width: 150px;
+    height: 40px;
+    font-size: 20px;
+    border: 1px solid blue ;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    background-color: azure;
+    text-decoration: none;
+
+}
